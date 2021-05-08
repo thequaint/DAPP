@@ -31,7 +31,7 @@ const HDWalletProvider = require('truffle-hdwallet-provider');
 const infuraKey = "https://rinkeby.infura.io/v3/375f7abaa5a14a2ba97554c27b4dcfaa";
 //
 // const fs = require('fs');
-const mnemonic = "leaf useful desert action head wagon enemy turtle guilt denial industry master";
+const mnemonic = "leaf useful desert action head wagon enemy turtle guilt industry master weight";
 module.exports = {
 
   /**
